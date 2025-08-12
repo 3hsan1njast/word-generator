@@ -1,6 +1,6 @@
 # Word Generator
 
-A simple Python application built with Tkinter to generate random words (12 or 24) from a `words.txt` file and copy them to the clipboard. Made with ❤️ by Ehsan.
+A simple Python application built with Tkinter to generate random words (12 or 24) from a `words.txt` file and copy them to the clipboard.
 
 ## Features
 - Select 12 or 24 random words from a provided `words.txt` file.
@@ -36,3 +36,5 @@ A simple Python application built with Tkinter to generate random words (12 or 2
 - Ensure `words.txt` exists in the project directory, or the program will display an error.
 - On Linux, `xclip` must be installed for clipboard functionality.
 - The generated `.exe` (if created with PyInstaller) requires `words.txt` in the same directory.
+
+Made with ❤️ by Ehsan.
